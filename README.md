@@ -4,6 +4,9 @@
 - BTT TFT35-E3 V3.0 Display
 - BL-Touch
 
+## BL Touch Setting:
+https://raw.githubusercontent.com/bigtreetech/BIGTREETECH-SKR-mini-E3/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/bltouch-2.0-2.jpg
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
