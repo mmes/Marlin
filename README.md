@@ -1,3 +1,9 @@
+# A Fork Of Marlin For Printer Configuration:
+- Sovol SV01
+- BTT SKR Mini E3 V2.0
+- BTT TFT35-E3 V3.0 Display
+- BL-Touch
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
