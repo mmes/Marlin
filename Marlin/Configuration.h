@@ -2024,7 +2024,7 @@
 // This is RAMPS-compatible using a single 10-pin connector.
 // (For CR-10 owners who want to replace the Melzi Creality board but retain the display)
 //
-// Disabled de to bug:https://github.com/MarlinFirmware/Marlin/issues/18358
+// Disabled due to bug:https://github.com/MarlinFirmware/Marlin/issues/18358
 #define CR10_STOCKDISPLAY
 
 //
